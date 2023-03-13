@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, Backend, and other stuff
 - 🌱 I’m happy try to learn something new
 - 💞️ I’m looking to collaborate on helpfully project
-- 📫 How to reach me ekonurarifin-my-id.vercel.app
+- 📫 How to reach me https://ekonurarifin.my.id
 
 <!---
 ary21/ary21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
